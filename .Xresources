@@ -1,0 +1,36 @@
+! Set the curser size
+Xcursor.size:  32
+
+! Set the dpi, and other font stuff
+Xft.dpi:        200
+Xft.autohint:   0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintslight
+Xft.hinting:    1
+Xft.antialias:  1
+
+! Xterm stuff
+XTerm*foreground: #FFFFFF
+XTerm*background: #000000
+
+xterm*faceName: monospace:size=10:antialias=false
+xterm*font: 7x13
+
+!tango color scheme
+xterm*color0: #1e1e1e
+xterm*color1: #cc0000
+xterm*color2: #4e9a06
+xterm*color3: #c4a000
+xterm*color4: #3465a4
+xterm*color5: #75507b
+xterm*color6: #0b939b
+xterm*color7: #d3d7cf
+xterm*color8: #555753
+xterm*color9: #ef2929
+xterm*color10: #8ae234
+xterm*color11: #fce94f
+xterm*color12: #729fcf
+xterm*color13: #ad7fa8
+xterm*color14: #00f5e9
+xterm*color15: #eeeeec
+
