@@ -19,6 +19,7 @@ xrdb ~/.Xresources
 # Double the GTK+3 widget scale. NOTE: You must set the GTK+3 font to half size
 # due to a bug in GTK+3 that the devs I talked to wont acknowledge.
 export GDK_SCALE=2
+export GDK_DPI_SCALE=0.5
 
 # Do the same with Qt5, the other Qt/KDE options do general things to make Qt5
 # apps look/run better.
