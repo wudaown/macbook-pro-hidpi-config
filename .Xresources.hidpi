@@ -1,8 +1,8 @@
 ! Set the curser size
-Xcursor.size:  24
+Xcursor.size:  34
 
 ! Set the dpi, and other font stuff
-!Xft.dpi:        200
+Xft.dpi:        200
 Xft.autohint:   0
 Xft.lcdfilter:  lcddefault
 Xft.hintstyle:  hintslight
